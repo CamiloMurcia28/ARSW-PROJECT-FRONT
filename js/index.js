@@ -8,7 +8,7 @@ var indexApp = (function () {
         auth: {
             clientId: "47c6a63b-2699-4c84-bd3e-e761c37671fd",  // Reemplaza con tu clientId de la aplicación cliente
             authority: "https://login.microsoftonline.com/db7dde3f-69fc-4e7b-9d6e-0e5a535c77c5",  // Reemplaza con tu tenantId
-            redirectUri: "https://frontarsw.z22.web.core.windows.net/"  // Cambia según tu entorno
+            redirectUri: "https://icy-island-041964b0f.4.azurestaticapps.net/"  // Cambia según tu entorno
         },
         cache: {
             cacheLocation: "localStorage", 
