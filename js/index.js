@@ -1,6 +1,6 @@
 var indexApp = (function () {
     var tank;
-    const api = "https://leotanks.duckdns.org:80";  // Cambia esto según la URL de tu backend
+    const api = "https://leotanks.duckdns.org";  // Cambia esto según la URL de tu backend
     const pageModal = document.getElementById("modal-overlay");
 
     // Configuración de MSAL
